@@ -34,10 +34,10 @@
   }
 
   .detailLogo {
-	  height: 16vh;
+	  height: 10vh;
 	  position: absolute;
 	  right: 25vw;
-	  top: 80vh;
+	  top: 10vh;
 	  width: 34em;
   }
 
@@ -46,7 +46,7 @@
     background-position: center;
     background-image: none !important;
     background-size: cover;
-    height: 20vh;
+    height: 100vh;
     position: relative;
   }
   .layout-tv .backgroundContainer, 
