@@ -18,7 +18,7 @@
 
   /*Style backdrop*/
   .backdropImage {
-    filter: blur(6px) saturate(120%) contrast(120%) brightness(40%);
+    filter: blur(6px) saturate(120%) contrast(120%) brightness(30%);
   }
   .card.show-animation:focus>.cardBox {
     -webkit-transform:scale(1.1);
@@ -34,7 +34,7 @@
   }
 
   .detailLogo {
-	  height: 13vh;
+	  height: 12vh;
 	  position: absolute;
 	  right: 25vw;
 	  top: 10vh;
