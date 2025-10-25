@@ -46,7 +46,7 @@
     background-position: center;
     background-image: none !important;
     background-size: cover;
-    height: 100vh;
+    height: 2vh;
     position: relative;
   }
   .layout-tv .backgroundContainer, 
