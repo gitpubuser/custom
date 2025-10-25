@@ -37,7 +37,7 @@
 	  height: 16vh;
 	  position: absolute;
 	  right: 25vw;
-	  top: 40vh;
+	  top: 80vh;
 	  width: 34em;
   }
 
@@ -46,7 +46,7 @@
     background-position: center;
     background-image: none !important;
     background-size: cover;
-    height: 2vh;
+    height: 20vh;
     position: relative;
   }
   .layout-tv .backgroundContainer, 
